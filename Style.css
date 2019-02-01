@@ -1,0 +1,35 @@
+H2 {
+
+    color: aliceblue;
+}
+
+H3 {
+    color: aliceblue;
+}
+
+body {
+    background-color: rgba(170, 211, 242, 0.9);
+    color: aliceblue
+}
+
+.lol {
+    color: rgba(42, 79, 162, 0.99);
+}
+
+#left {
+    background-color: aliceblue;
+    height: 700;
+}
+
+#right {
+    background-color: rgba(1, 23, 41, 0.99);
+    height: 1000;
+
+}
+
+.lmao {
+    border-radius: 50%;
+    border-style: groove;
+    border-width: 5;
+    margin-top: 3em;
+}
